@@ -10,11 +10,9 @@ This repository exists to organize and document the planning of my new React pro
 
 ![brainstorming](./Assets/IMG_0956.JPG)
 
-
-
 ### Mock
 
-Mock will go here
+![mock](./Assets/Homeview-mock.png)
 
 
 

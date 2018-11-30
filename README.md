@@ -2,6 +2,10 @@
 
 This repository exists to organize and document the planning of my new React project, Art Keeper.
 
+
+## Proposal
+
+![proposal](./Assets/proposal.png)
 ## User stories, mindmap, and initial sketches
 
 

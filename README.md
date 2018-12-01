@@ -18,6 +18,7 @@ This repository exists to organize and document the planning of my new React pro
 
 ### Component Tree sketch and heirarchy arrangement
 
+![component tree](./Assets/IMG_3734.JPG)
 
 ## Static site
 

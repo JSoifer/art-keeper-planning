@@ -22,7 +22,7 @@ This repository exists to organize and document the planning of my new React pro
 
 ## Static site
 
-link to static site build will go here
+[Link to Static Site](https://github.com/JSoifer/gallery-x.git)
 
 ### State Audit
 
